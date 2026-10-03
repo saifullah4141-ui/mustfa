@@ -1,0 +1,30 @@
+{
+  "apps": [
+    {
+      "name": "Raksha PDF reader",
+      "platform": "windows",
+      "priceInr": 999,
+      "size": 130031000,
+      "download": "https://mustfa.in/dl/setup",
+      "parts": [
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part00-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part01-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part02-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part03-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part04-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part05-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part06-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part07-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part08-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part09-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part10-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part11-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part12-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part13-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part14-1791018929831",
+        "https://github.com/saifullah4141-ui/mustfa/releases/download/downloads/RakshaPDF-Reader-Setup-1.0.0.exe.part15-1791018929831"
+      ],
+      "buy": "https://razorpay.me/@mustfa337"
+    }
+  ]
+}
